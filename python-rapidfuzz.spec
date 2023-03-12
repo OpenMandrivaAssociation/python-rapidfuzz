@@ -10,6 +10,7 @@ License:	MIT
 Group:		Development/Python
 BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(scikit-build)
+BuildRequires:	pkgconfig(python3)
 BuildRequires:	cmake
 BuildRequires:	ninja
 
