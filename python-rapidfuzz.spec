@@ -2,7 +2,7 @@
 
 Name:		python-rapidfuzz
 Version:	2.13.7
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/r/rapidfuzz/rapidfuzz-%{version}.tar.gz
 Summary:	rapid fuzzy string matching
 URL:		https://pypi.org/project/rapidfuzz/
