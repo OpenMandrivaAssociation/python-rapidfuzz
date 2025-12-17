@@ -10,6 +10,8 @@ License:	MIT
 Group:		Development/Python
 BuildSystem:	python
 BuildRequires:	python%{pyver}dist(pip)
+BuildRequires:  python%{pyver}dist(setuptools)
+BuildRequires:  python%{pyver}dist(wheel)
 BuildRequires:	python%{pyver}dist(scikit-build)
 BuildRequires:	cmake
 BuildRequires:	ninja
