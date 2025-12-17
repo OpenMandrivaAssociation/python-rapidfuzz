@@ -13,6 +13,7 @@ BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:  python%{pyver}dist(setuptools)
 BuildRequires:  python%{pyver}dist(wheel)
 BuildRequires:	python%{pyver}dist(scikit-build)
+BuildRequires:	python%{pyver}dist(scikit-build-core)
 BuildRequires:	cmake
 BuildRequires:	ninja
 
