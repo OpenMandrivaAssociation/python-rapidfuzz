@@ -21,5 +21,5 @@ BuildRequires:	ninja
 rapid fuzzy string matching
 
 %files
-#{py_platsitedir}/rapidfuzz
-#{py_platsitedir}/rapidfuzz-*.*-info
+%{python_sitelib}/rapidfuzz-*.dist-info
+%{python_sitelib}/rapidfuzz/
