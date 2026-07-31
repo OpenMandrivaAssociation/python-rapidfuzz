@@ -1,8 +1,8 @@
 %undefine _debugsource_packages
 
 Name:		python-rapidfuzz
-Version:	3.14.3
-Release:	2
+Version:	3.14.5
+Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/r/rapidfuzz/rapidfuzz-%{version}.tar.gz
 Summary:	rapid fuzzy string matching
 URL:		https://pypi.org/project/rapidfuzz/
